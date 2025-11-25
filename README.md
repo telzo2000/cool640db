@@ -45,8 +45,10 @@ https://sizu.me/m_ki/posts/m3devs7be5km
 
 https://github.com/telzo2000/cool640db/blob/main/buildguide_for_cool640db.md
 
+<br>
+cool640dbでキーが反応しない時に...
 
-
+https://sizu.me/m_ki/posts/3zfmh0kmvew9
 
 
 <br>
