@@ -2,6 +2,9 @@
 <br>
 
 ## 0 部品の確認
+
+![](img/img00012.jpg)
+
 <br>
 Follow the BOM on github's readme.md to make sure that all the parts are available.
 <br>
@@ -58,6 +61,11 @@ Solder the switch socket on the back of the left and right keyboard boards.
 
 [Switch socketハンダ付け動画](https://youtu.be/ZnbgaueMR4w?si=_JLjD--3HJJ5Pu7Q)
 
+![](img/img00006.jpg)
+
+![](img/img00008.jpg)
+
+![](img/img00010.jpg)
 <br>
 
 ## 3 Seeed xiao bleのハンダ付け
@@ -71,48 +79,9 @@ Solder the switch socket on the back of the left and right keyboard boards.
 
 
 
-## 4a  電池ボックス取り付け（cool640db）
+#
 
-![](img/img00010.jpg)
-
-Cut the red and black cables of the battery box about 1cm from the base. Peel off the film from the remaining 1cm.
-<br>
-電池ボックスの赤色、黒色のケーブルは根元から１cmぐらいのところで、切断します。１cm残した部分は、皮膜を剥がしてください。
-<br>
-![](img/img00011.jpg)
-
-![](img/img00012.jpg)
-<br>
-Apply double-sided tape to the back of the battery case. Use double-sided tape to secure the battery case and PCB.
-<br>
-電池ケースの裏面に両面テープを貼ります。電池ケースとPCBは両面テープを使って、固定します。
-![](img/img00013.jpg)
-
-Pass the battery case cable through the hole in the PCB and secure it.
-<br>
-電池ケースのケーブルをPCBの穴に通すように固定してください。
-![](img/img00014.jpg)
-
-Turn the back of the PCB face up. Carefully fold the cable extending from the battery case in two places and solder it.
-<br>
-PCBの裏面を上に向けます。電池ケースから延びたケーブルを２箇所、上手に折りたたんで、はんだ付けをします。
-![](img/img00015.jpg)
-![](img/img00016.jpg)
-![](img/img00018.jpg)
-<br>
-
-## 4b 電池ボックスの取り付け（cool640db_r2）
-
-
-Insert the battery box from the top of the board and temporarily secure it with masking tape. Then, cut off any leads sticking out from the top of the board with pliers or something similar and solder them in place. Attach the four pieces, matching the left and right sides. Also, be careful of the orientation.
-<br>
-電池ボックスを基板の上面から、差し込み、マスキングテープで仮固定します。そして、基板の上面から飛び出したリードをニッパーなどで切り取り、ハンダ付けをしてください。左右で合わせて、４つ取り付けます。また、向きに注意してください。
-<br>
-
-
-
-
-## 5a スライドスイッチのハンダ付け（cool640db）
+## 4 スライドスイッチのハンダ付け
 
 Insert the switch from the front of the PCB with the switch knob facing outward.
 <br>
@@ -126,32 +95,9 @@ After temporarily fixing it with masking tape, etc., solder the exposed part of 
 
 [スライドスイッチのはんだ付けの作業動画](https://youtu.be/5nkRklibay4)
 
-<br>
-
-## 5b スライドスイッチのハンダ付け（cool640db_r2）
-
-Insert the switch from the underside of the PCB with the tab facing outwards.
-<br>
-スイッチのつまみが外側に向くようにして、PCBの下面から差し込みます。
-
-Temporarily fix it with masking tape or something similar, then solder the part that is exposed on the top surface of the PCB.
-<br>
-マスキングテープなどで仮固定をしてから、PCBの上面に出た部分をはんだ付けします。
-<br>
 
 
-[スライドスイッチのはんだ付けの作業動画](https://youtu.be/5nkRklibay4)
-
-
-## 5.5　リセットスイッチのハンダ付け
-
- <br>
-PCB ver.1.21以降、リセットスイッチが付きました。
-<br>
-<br>
-
-![](img/img00025.jpg)
-
+## 5　リセットスイッチのハンダ付け
 
 Insert the reset switch from the bottom of the board.
 <br>
@@ -169,29 +115,7 @@ Then, solder it.
 [リセットスイッチハンダ付け動画](https://youtu.be/Pl24Exfh8b8)
 
 
-## 6 L字コンスルー（またはピンヘッダ） のハンダ付け
-
-First, use a nipper or cutter to cut the L-shaped conslue into 7 pins.
-<br>
-If you suddenly try to cut between the 7th and 8th pins, it is easy to fail, so it is a good idea to cut between the 8th and 9th pins and then adjust them with a file.
-<br>
-最初にL字コンスルーを7ピンになるようにニッパーやカッターなどを使い、裁断してください。
-<br>
-いきなり、７つ目のピンと８つ目のピンの間を裁断しようとすると、失敗しやすいので、8つ目と９つ目の間を裁断してからヤスリなどで調整するとよいでしょう。
-<br>
-<br>
-Insert the L-shaped through spring from the surface of the keyboard board and temporarily fix it with masking tape, etc.
-<br>
-Turn the back of the board up and solder it.
-<br>
-L字コンスルーのバネのついていない方を、キーボード基板表面から差し込んで、マスキングテープなどで仮固定します。
-<br>
-基板裏面を上向にして、ハンダ付けをします。
-<br>
-<br>
-
-
-## 7 トラックボール基板の作成
+## 6 トラックボール基板の作成
 
 Caution PMW3610 is prone to sensor damage when exposed to high temperature heat. Please complete the soldering of each pin in a short time.
 <br>
@@ -221,7 +145,7 @@ Check the pin of the PMW3610 and insert it from the surface of the trackball boa
 <br>
 PMW3610のピンを確認して、トラックボール基板の表面から差し込みます。マスキングテープで仮固定します。
 
-![](img/img00022.jpg)
+![](img/img00013.jpg)
 
 <br>
 <br>
@@ -239,7 +163,7 @@ From the back of the trackball board, cover the acrylic part on the PMW3610, and
 <br>
 トラックボール基板の裏面の方から、アクリル部品をPMW3610に被せて、その裏側に出たアクリルをハンダごてで溶かして外れないようにします。
 
-![](img/img00021.jpg)
+![](img/img00014.jpg)
 <br>
 <br>
 
