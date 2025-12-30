@@ -117,6 +117,10 @@ Then, solder it.
 
 ## 6 トラックボール基板の作成
 
+![](img/img00013.jpg)
+
+![](img/img00014.jpg)
+
 Caution PMW3610 is prone to sensor damage when exposed to high temperature heat. Please complete the soldering of each pin in a short time.
 <br>
 注意　PMW3610は高温の熱にさらされるとセンサーの破損が発生しやすいです。それぞれのピンのはんだ付けは短時間で済ませてください。
