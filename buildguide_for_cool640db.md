@@ -145,7 +145,6 @@ Check the pin of the PMW3610 and insert it from the surface of the trackball boa
 <br>
 PMW3610のピンを確認して、トラックボール基板の表面から差し込みます。マスキングテープで仮固定します。
 
-![](img/img00013.jpg)
 
 <br>
 <br>
@@ -163,9 +162,30 @@ From the back of the trackball board, cover the acrylic part on the PMW3610, and
 <br>
 トラックボール基板の裏面の方から、アクリル部品をPMW3610に被せて、その裏側に出たアクリルをハンダごてで溶かして外れないようにします。
 
-![](img/img00014.jpg)
 <br>
 <br>
+
+## 7 センサー基板のはんだ付け
+
+The sensor board created in step 7 is fixed to the circuit board by soldering it with the pin head in between.
+<br>
+7で作成したセンサー基板を基板にピンヘッドを間に挟んではんだ付けして固定します。
+<br>
+
+![](img/img00006.jpg)
+
+Please refer to the diagram above when soldering. When doing so, use pliers or similar to cut off any protruding pin heads.
+<br>
+上の図を参考にして、はんだ付けをしてください。その際、はみ出たピンヘッドはニッパーなどで切り取ってください。
+<br>
+
+Note<br>
+トラックボールセンサー基板のはんだ付けの成否を知らずに、基板にそれらをピンヘッドではんだ付けすることに不安のある場合は、７ピンの2.5mmコンスルーを使って、仮固定をすることを勧めます。仮固定で、動作に問題ないことを確認してから、コンスルーのはんだ付けをします（はんだ付けしないと、振動で外れることがあります）。
+<br>
+コンスルーの７ピンは通常では販売されていないので、12ピンをカッターなどで切断して用意してください。
+<br>
+<br>
+
 
 ## 8 ロータリーエンコーダのはんだ付け
 
