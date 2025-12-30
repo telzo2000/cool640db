@@ -114,12 +114,20 @@ Then, solder it.
 
 [リセットスイッチハンダ付け動画](https://youtu.be/Pl24Exfh8b8)
 
+## 6 JSTコネクタのはんだ付け
 
-## 6 トラックボール基板の作成
+Insert the JST connector from the underside of the board, cut off any protruding leads with pliers, and then solder.
+<br>
+JSTコネクタを基板の下面から差し込み、はみ出たリードをニッパーで切り落としてから、はんだ付けをして下さい。
+<br>
+
+
+## 7 トラックボール基板の作成
 
 ![](img/img00013.jpg)
 
 ![](img/img00014.jpg)
+
 
 Caution PMW3610 is prone to sensor damage when exposed to high temperature heat. Please complete the soldering of each pin in a short time.
 <br>
@@ -169,14 +177,16 @@ From the back of the trackball board, cover the acrylic part on the PMW3610, and
 <br>
 <br>
 
-## 7 センサー基板のはんだ付け
+## 8 センサー基板のはんだ付け
 
 The sensor board created in step 7 is fixed to the circuit board by soldering it with the pin head in between.
 <br>
-7で作成したセンサー基板を基板にピンヘッドを間に挟んではんだ付けして固定します。
+6で作成したセンサー基板を基板にピンヘッドを間に挟んではんだ付けして固定します。
 <br>
 
-![](img/img00006.jpg)
+
+![](img/img00015.jpg)
+
 
 Please refer to the diagram above when soldering. When doing so, use pliers or similar to cut off any protruding pin heads.
 <br>
@@ -191,28 +201,27 @@ Note<br>
 <br>
 
 
-## 8 ロータリーエンコーダのはんだ付け
+## 9 スイッチプレートの組み立て（１）
 
-Insert the rotary encoder from the front side of the PCB and solder it on the back side of the PCB.
+Assemble the trackball part of the switch plate.
 <br>
-PCB表面から、ロータリーエンコーダーを差し込み、PCB裏面ではんだ付けをします。
+スイッチプレートのトラックボール部分の組み立てをします。
+<br>
 
-<br><br>
-The rotary encoder has three claws on one side, one claw on both sides, and two claws on the other side.
+Use tweezers to insert the bearing from the inside, then insert a 6mm M2 screw from the outside to secure it in place.
 <br>
-ロータリーエンコーダーには1辺に３つの爪があり、その両脇の辺に１つの爪があり、残り１辺に２つの爪があります。
+ピンセットを使い、ベアリングを内側から挿入します。その後、外側からM2ネジ6mmを差し込んで固定します。
 <br>
-Of these, 3 nails and 2 nails are the parts related to the input, so we will solder them.
+Do this in three places on each of the left and right switch plates.
 <br>
-このうち、３つの爪と２つの爪は入力に関わる部分ですので、はんだ付けをします。
+この作業を左右のスイッチプレートで、それぞれ３箇所行います。
 <br>
-For one nail, there is no problem without soldering.
+Once you've finished, insert the 12mm POM ball by pushing it in from above.
 <br>
-１つの爪については、はんだ付けしなくても問題ありません。
-<br><br>
+作業を終えたら、12mmPOM球を上から押し込むように入れます。
+<br>
 
-
-## 9a スイッチプレートの組み立て(choc)
+## 10 スイッチプレートの組み立て（２）
 
 Stack the switch plate and PCB in this order from the top, and insert four M2 5mm screws from the top.
 <br>
@@ -228,32 +237,7 @@ There are 4 places each on the left and right, a total of 8 places.
 左右それぞれ4箇所で、合計8箇所行います。
 <br>
 
-
-## 9b スイッチプレートの組み立て(cherryMX)
-
-Insert the M2 8mm screw from the top of the switch plate.
-<br>
-Fix it with an M2 3mm spacer on the bottom of the switch plate.
-<br>
-スイッチプレート上面からM2 8mmネジを差し込みます。
-<br>
-それをスイッチプレート下面でM2 3mmスペーサーで固定します。
-<br>
-<br>
-Overlay the switch plate on the PCB.
-<br>
-There are some M2 8mm screws on the underside of the PCB, so fix them with an M2 3mm spacer.
-<br>
-There are 4 places each on the left and right, a total of 8 places.
-<br>
-スイッチプレートをPCBに重ねます。
-<br>
-PCB下面にM2 8mmネジが少し出ますので、M2 3mmスペーサーで固定します。
-<br>
-左右それぞれ4箇所で、合計8箇所行います。
-
-
-## 10 スイッチの差し込み
+## 11 スイッチの差し込み
 
 Plug your favorite key switch into the one you made in section 8.
 <br>
@@ -278,12 +262,16 @@ It's a mistake you often make, so don't worry about it, plug in the key switch m
 <br>
 <br>
 
+## 12　電池ケースの作成
 
-## 11 ボトムプレートの取り付け
 
-Insert four M2 3mm screws from the bottom of the bottom plate to secure it. The left and right bottom plates have different shapes, so please align them with the switch plate.
+
+
+## 13 ボトムプレートの取り付け
+
+Insert four M2 6mm screws from the bottom of the bottom plate to secure it. The left and right bottom plates have different shapes, so please align them with the switch plate.
 <br>
-ボトムプレートの下面からM2 3mmネジを４箇所差し込んで、固定してください。ボトムプレートは左右の形が違いますので、スイッチプレートと向きを合わせてください。
+ボトムプレートの下面からM2 6mmネジを４箇所差し込んで、固定してください。ボトムプレートは左右の形が違いますので、スイッチプレートと向きを合わせてください。
 <br>
 <br>
 The side with the recess to hide the screw heads will be the bottom of the bottom plate.
@@ -292,41 +280,8 @@ The side with the recess to hide the screw heads will be the bottom of the botto
 <br>
 <br>
 
-## 12 トラックボールケースの固定
 
-Install the trackball board to fit the 7 pins of the L-shaped through on the right side of the keyboard board.
-<br>
-Insert 2 M2 4mm screws from the inside of the ball case and fix it with an M2 3mm spacer on the bottom of the ball case.
-<br>
-Insert the ball case so that it can be put on the trackball board.
-<br>
-The spacer on the bottom of the ball case is inserted into the concave part of the bottom case.
-<br>
-Insert 2 M2 4mm screws from the bottom of the bottom case and fix the spacer.
-<br>
-トラックボール基板をキーボード基板の右手側にあるL字コンスルーの7ピンに合うように取り付けます。
-<br>
-ボールケースの内側から2箇所、M2 4mmネジを差し込み、ボールケース底面でM2 3mmスペーサーで固定します。
-<br>
-ボールケースをトラックボール基板に被せるように差し込みます。
-<br>
-ボールケース底面にあるスペーサーがボトムケースの凹部に差し込まれるようにします。
-<br>
-ボトムケース底面から2箇所、M2 4mmネジを差し込み、スペーサーを固定します。
-<br> 
-<br>
-If you want to turn the ball better, put the support ball in 3 places in the ball case. Woodworking bonds are the best for fixing.
-<br>
-よりよくボールを回したいと考えているならば、支持球をボールケース内に3箇所入れてください。固定には、木工用ボンドが最適です。
-<br>
-<br>
-Please attach a 25mm ball to the ball case.
-<br>
-ボールケースに25mm球を装着してください。
-<br>
-<br>
-
-## 13 キーキャップの装着
+## 14 キーキャップの装着
 
 Please attach your favorite keycap (All 1U size).
 <br>
